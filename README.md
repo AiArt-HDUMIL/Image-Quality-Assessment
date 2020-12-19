@@ -9,4 +9,8 @@
 
 ## FID
 
-Pytorch version of FID ind
+Pytorch version of **FID indicator**.
+
+## IQA
+
+Matlab version of **(PSNR, FSIM, SSIM, MAE & FPM)**.
