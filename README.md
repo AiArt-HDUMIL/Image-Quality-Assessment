@@ -14,3 +14,7 @@ Pytorch version of **FID indicator**.
 ## IQA
 
 Matlab version of **(PSNR, FSIM, SSIM, MAE & FPM)**.
+
+## Model Parameters and FLOPs
+
+https://github.com/Lyken17/pytorch-OpCounter
